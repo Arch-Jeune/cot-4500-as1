@@ -6,8 +6,9 @@ a) 010000000111111010111001
 3) Repeat exercise 1 using three-digit rounding arithmetic
 4) Compute the absolute and relative error with the exact value from question 1 and its 3 digit
 rounding
- 5 Consider the infinite series: 
-  What is the minimum number of terms needed to computer f(1) with error < 10-4?
+
+5 Consider the infinite series: 
+What is the minimum number of terms needed to computer f(1) with error < 10-4?
 
 6) Determine the number of iterations necessary to solve f(x) = x3 + 4x2 – 10 = 0 with
 accuracy 10-4 using a = -4 and b = 7.

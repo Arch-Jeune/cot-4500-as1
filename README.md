@@ -8,6 +8,7 @@ a) 010000000111111010111001
 rounding
 5)Consider the infinite series: 
 What is the minimum number of terms needed to computer f(1) with error < 10-4?
+
 6) Determine the number of iterations necessary to solve f(x) = x3 + 4x2 – 10 = 0 with
 accuracy 10-4 using a = -4 and b = 7.
 a) Using the bisection method
